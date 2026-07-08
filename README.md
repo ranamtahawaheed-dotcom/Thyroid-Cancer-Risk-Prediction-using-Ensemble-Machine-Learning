@@ -1,0 +1,2 @@
+# Thyroid-Cancer-Risk-Prediction-using-Ensemble-Machine-Learning
+Machine learning model to predict thyroid cancer risk using patient healthcare data. Applied data preprocessing, feature engineering, and model training using Random Forest, Logistic Regression, SVM, XGBoost, and Voting Ensemble techniques. Evaluated model performance using accuracy metrics, confusion matrix, and learning curve analysis.
